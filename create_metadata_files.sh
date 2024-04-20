@@ -50,7 +50,7 @@ do
     format="CHIP-0007"
     imgtitle="$md_col_name: $this_name"
     imgdesc="Embrace the Wacky, Embody the Wonky: Meet the Vixens of Whimsy!"
-    minter="Photomojo"
+    minter="bash script"
     #sensitivity. Should be true or false DO NOT wrap in double quotes. The value needs to be boolean, not string for CHIP-0007
     sens=false
 
